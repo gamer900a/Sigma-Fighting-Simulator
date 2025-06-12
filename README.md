@@ -1,2 +1,4 @@
 # Sigma-Fighting-Simulator
-Sigma Fighting Simulator Game that is very sigma
+HTML Fighting simulator with cringe and non-cringe Characters
+# Why did i made this?
+idk lol
